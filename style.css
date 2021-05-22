@@ -1,0 +1,59 @@
+body
+{
+    text-align: center;
+}
+#answers
+{
+text-align: left;
+color: blueviolet;
+}
+#question
+{
+text-align: left;
+color: black;
+}
+#setup
+{
+    background-color: gold;
+    text-align: left;
+    color: red;
+}
+#setup h1
+{
+    text-align: center;
+    color: black;
+    text-decoration-line: underline;
+}
+#Visual_Studio_Code
+{
+    background-color:yellow;
+}
+#console h2
+{
+    text-align: left;
+    color: brown;
+}
+#console h3
+{
+    text-align: left;
+    color: tomato;
+}
+#console
+{
+    background-color: lemonchiffon;
+}
+#console h1
+{
+    text-align: center;
+    color: black;
+    text-decoration-line: underline;
+    font-size:xx-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+#console p
+{
+    text-align: left;
+    color: peru;
+    font-size:xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
